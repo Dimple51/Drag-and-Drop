@@ -19,6 +19,7 @@ let completeListArray = [];
 let onHoldListArray = [];
 let listArrays = [];
 
+
 // Drag Functionality
 let draggedItem;
 let dragging = false;
